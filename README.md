@@ -35,14 +35,25 @@ O **EduGrade** é um sistema de linha de comando (CLI) desenvolvido em Python pa
 
 ##  Estrutura do Repositório
 
-edugrade/
+```text
+EduGrade/
 │
 ├── edugrade.py             # Código-fonte principal da aplicação CLI
 ├── README.md               # Apresentação do projeto e guia de uso
-└── docs/
-    ├── requisitos.md       # Documentação de User Stories, RF, RN e RNF
-    ├── kanban.md           # Mapeamento do Backlog e acompanhamento das Sprints
-    └── fluxo_cli.md        # Protótipo do fluxo de navegação no terminal
+│
+├── Imagens_kanbam/         # Capturas de ecrã do acompanhamento no Kanban
+│   ├── 1_kanbam.png
+│   └── ...
+│
+└── docs/                   # Documentação do projeto
+    ├── requisitos.md       # User Stories, RF, RN e RNF
+    ├── kanban.md           # Registos do Backlog e Sprints
+    ├── fluxo_cli.md        # Protótipo da navegação do terminal
+    ├── apresentacao.md     # Roteiro de apresentação do projeto
+    └── imagens_docs/       # Evidências do sistema em execução (CLI)
+        ├── Menu.png
+        ├── cadastro.png
+        └── ...
 
 ---
 
