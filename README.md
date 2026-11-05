@@ -55,6 +55,8 @@ EduGrade/
         ├── cadastro.png
         └── ...
 
+```
+
 ---
 
 ##  Tecnologias e Ferramentas
